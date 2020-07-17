@@ -1,0 +1,17 @@
+pipeline {
+    agent { 
+        dockerfile true 
+    }
+    stages {
+        stage('After Build') {
+            steps {
+                echo 'Image built successfully'
+            }
+        }
+        stage('Static Analysis of code'){
+            steps{
+                
+            }
+        }
+    }
+}

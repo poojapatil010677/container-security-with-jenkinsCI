@@ -1,0 +1,12 @@
+ipython
+pika
+Flask
+Flask-SQLAlchemy
+requests==2.8.1
+docker
+flask-cors
+notebook==5.4.0
+
+
+
+
