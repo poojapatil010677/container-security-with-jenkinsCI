@@ -5,7 +5,7 @@ Flask-SQLAlchemy
 requests==2.8.1
 docker
 flask-cors
-notebook==5.4.0
+notebook==6.1.5
 
 
 
